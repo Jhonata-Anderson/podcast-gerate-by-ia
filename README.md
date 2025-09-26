@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/knight.png"
+    src="./assets/Knight.png"
     width="300"
 />
 
@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
+    <audio src="./output/podcast_editado.mp3" controls title="Podcast editado"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
